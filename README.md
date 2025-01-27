@@ -54,5 +54,6 @@ Fetches only public activity.
 Limited to the first 5 activities for simplicity.
 Relies on GitHub API, which has a rate limit for unauthenticated requests (60 requests per hour).
 
+
 #License
 This project is licensed under the MIT License.
